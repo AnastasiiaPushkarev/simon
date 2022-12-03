@@ -20,7 +20,7 @@ If the user messes up the sequence, then the game ends.
 
 ### Links
 
-- Solution URL: [Git Hub](https://your-solution-url.com)
+- Solution URL: [Git Hub](https://github.com/AnastasiiaPushkarev/simon.git)
 - Live Site URL: [Simon Game](https://anastasiiapushkarev.github.io/simon/)
 
 ## My process
