@@ -20,8 +20,8 @@ If the user messes up the sequence, then the game ends.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git Hub](https://your-solution-url.com)
+- Live Site URL: [Simon Game](https://anastasiiapushkarev.github.io/simon/)
 
 ## My process
 
